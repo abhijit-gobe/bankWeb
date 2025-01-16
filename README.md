@@ -8,7 +8,7 @@ Welcome to the **HooBank Website Landing Page** project, a modern and responsive
 
 ## 🔥 Live Demo
 
-![Click here to see the website](https://hoobank-six-drab.vercel.app/) 🚀
+[Click here to see the website](https://hoobank-six-drab.vercel.app/) 🚀
 
 ## 🌟 Features
 
