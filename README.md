@@ -2,9 +2,13 @@
 
 Welcome to the **HooBank Website Landing Page** project, a modern and responsive web application built using **React** and **Tailwind CSS**. The website is designed to provide a seamless experience for users on all devices, with a sleek and intuitive design that highlights key features of a banking platform.
 
+## 🖼️ Project Preview
+
+![HooBank](https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png)
+
 ## 🔥 Live Demo
 
-[Click here to see the live demo](#) 🚀
+1[HooBank](https://hoobank-six-drab.vercel.app/) 🚀
 
 ## 🌟 Features
 
@@ -15,10 +19,6 @@ Welcome to the **HooBank Website Landing Page** project, a modern and responsive
 - **Footer**: An informative footer with links to social media, contact information, and important resources.
 
 The landing page is fully responsive, ensuring it works perfectly on desktops, tablets, and mobile devices. 🚀
-
-## 🖼️ Project Preview
-
-![HooBank](https://i.ibb.co/BK1Hn0x/Screenshot-2022-08-08-at-4-05-48-PM.png)
 
 ## ⚙️ Tech Stack
 
