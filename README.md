@@ -1,4 +1,4 @@
-# HooBank - Modern Bank website using React.js & Tailwind CSS
+# HooBank - Bank website using React.js & Tailwind CSS
 
 Welcome to the **HooBank Website Landing Page** project, a modern and responsive web application built using **React** and **Tailwind CSS**. The website is designed to provide a seamless experience for users on all devices, with a sleek and intuitive design that highlights key features of a banking platform.
 
